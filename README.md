@@ -15,10 +15,10 @@ For me, coding isn't just about solving problems—it's about creating something
 
 ## Tech Stack
 
-**Languages:** JavaScript, Python, C  
+**Languages:** JavaScript, Python, c  
 **Frontend:** HTML, CSS, React  
 **Backend:** Node.js, Supabase, Flask  
-**Databases:** PostgreSQL, MySQL  
+**Databases:** MySQL  
 **Tools & Platforms:** Git, GitHub, VS Code  
 
 ---
