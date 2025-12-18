@@ -1,15 +1,43 @@
-<!-- This file is used to customize my GitHub profile -->
+# Hi, I'm Ramakrishna Bollempelli (@ramakrishna-netizen)
 
+[cite_start]I'm an aspiring Computer Science and Engineering student [cite: 4] who enjoys turning ideas into real projects. 
+[cite_start]Over the past few years, I've been exploring **Full-Stack Development**, experimenting with **Machine Learning**[cite: 16], 
+and contributing to **Open Source** whenever I can.
 
+For me, coding isn't just about solving problems—it's about creating something meaningful, learning along the way, 
+[cite_start]and sharing knowledge with others[cite: 4].
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramakrishna-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna-netizen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna-netizen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=ramakrishna-netizen&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## What I'm Working On
 
+* **Improving my skills** in React, JavaScript, and full-stack web development.
+* [cite_start]**Exploring** Machine Learning, CNNs, and RAG-based systems[cite: 17, 31].
+* [cite_start]**Building** side projects like a Teachable Machines clone and semantic search assistants[cite: 27, 32].
+* [cite_start]**Applying** modern web design principles and UI development techniques[cite: 13].
+
+---
+
+## Tech Stack
+
+[cite_start]**Languages:** JavaScript, Python, C[cite: 15].
+
+[cite_start]**Frontend:** HTML, CSS, React[cite: 17].
+
+[cite_start]**Backend:** Node.js, Supabase, Flask[cite: 18, 33].
+
+[cite_start]**Databases:** PostgreSQL, MySQL[cite: 19, 37].
+
+[cite_start]**Tools & Platforms:** Git, GitHub, VS Code[cite: 3, 19].
+
+---
+
+## Let’s Connect
+
+* [cite_start]**Email:** [ramakrishna.chary44@gmail.com](mailto:ramakrishna.chary44@gmail.com) [cite: 3]
+* [cite_start]**GitHub:** [github.com/ramakrishna-netizen](https://github.com/ramakrishna-netizen) [cite: 3]
+* **Education:** B.Tech in CSE (Expected 2026) | [cite_start]GPA: 8.5/10.0 [cite: 7]
+
+---
+
+> [cite_start]"I am looking for an opportunity to apply my technical skills and analytical abilities in a dynamic work environment." [cite: 4]
