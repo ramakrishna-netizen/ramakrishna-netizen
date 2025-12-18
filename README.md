@@ -8,11 +8,9 @@ For me, coding isn't just about solving problems—it's about creating something
 
 ## What I'm Working On
 
-* **Improving my skills** in React, JavaScript, and full-stack web development.
-* **Exploring** Machine Learning, CNNs, and RAG-based systems.
-* **Building** side projects like a Teachable Machines clone and semantic search assistants.
-* **Applying** modern web design principles and UI development techniques.
-
+* **Building Scalable Architectures:** Mastering **React** and **Supabase** to create high-performance, real-time web applications.
+* **Advancing in AI Ecosystems:** Deepening my expertise in **Machine Learning** and **Deep Learning**.
+* **Developing Intelligent Systems:** Integrating data-driven insights with backend logic to create smarter, automated business technology solutions.
 ---
 
 ## Tech Stack
@@ -28,8 +26,7 @@ For me, coding isn't just about solving problems—it's about creating something
 ## Let's Connect
 
 * **Email:** [ramakrishna.chary44@gmail.com](mailto:ramakrishna.chary44@gmail.com)
-* **GitHub:** [github.com/ramakrishna-netizen](https://github.com/ramakrishna-netizen)
-* **Education:** B.Tech in CSE (Expected 2026) | **GPA:** 8.5/10.0
+* **LinkedIn:** [linkedin.com/in/ramakrishna-bollempelli](https://www.linkedin.com/in/ramakrishna-bollempelli-7a418b363/)
 
 ---
 
