@@ -1,11 +1,8 @@
 # Hi, I'm Ramakrishna Bollempelli (@ramakrishna-netizen)
 
-[cite_start]I'm an aspiring Computer Science and Engineering student [cite: 4] who enjoys turning ideas into real projects. 
-[cite_start]Over the past few years, I've been exploring **Full-Stack Development**, experimenting with **Machine Learning**[cite: 16], 
-and contributing to **Open Source** whenever I can.
+I'm an aspiring Computer Science and Engineering student [cite: 4] who enjoys turning ideas into real projects. [cite_start]Over the past few years, I've been exploring **Full-Stack Development**, experimenting with **Machine Learning**[cite: 16], and contributing to Open Source whenever I can.
 
-For me, coding isn't just about solving problems—it's about creating something meaningful, learning along the way, 
-[cite_start]and sharing knowledge with others[cite: 4].
+[cite_start]For me, coding isn't just about solving problems—it's about creating something meaningful, learning along the way, and sharing knowledge with others[cite: 4].
 
 ---
 
@@ -32,11 +29,11 @@ For me, coding isn't just about solving problems—it's about creating something
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
 * [cite_start]**Email:** [ramakrishna.chary44@gmail.com](mailto:ramakrishna.chary44@gmail.com) [cite: 3]
 * [cite_start]**GitHub:** [github.com/ramakrishna-netizen](https://github.com/ramakrishna-netizen) [cite: 3]
-* **Education:** B.Tech in CSE (Expected 2026) | [cite_start]GPA: 8.5/10.0 [cite: 7]
+* **Education:** B.Tech in CSE (Expected 2026) | [cite_start]**GPA:** 8.5/10.0 [cite: 7]
 
 ---
 
